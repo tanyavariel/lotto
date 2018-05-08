@@ -1,0 +1,2 @@
+# lotto
+Lottery stuff
