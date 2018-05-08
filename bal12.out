@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=9;IE=10;IE=Edge,chrome=1"/>
+  <title>Baloto</title>
+  <base href="https://www.baloto.com"/>
+  <link rel="icon" type="image/png" href="https://www.baloto.com/modules/cms/views/assets/images/xfevicon.png.pagespeed.ic.tIt0ku-JNp.jpg"/>
+  <link rel="stylesheet" href="https://www.baloto.com/modules/cms/views/assets/css/A.bootstrap.css+bootstrap-theme.css+bootstrap-select.min.css+style.css+responsive.css+owl.carousel.min.css+parsley.css+jquery.mCustomScrollbar.css+jquery.incremental-counter.css+jquery.counter-analog.css,Mcc.NSgdNHi9wl.css.pagespeed.cf.CCNcp_UUe8.css"/>
+  
+   
+  
+  
+  
+    
+  
+    
+  <script src="https://www.baloto.com/modules/cms/views/assets/js/jquery-1.11.2.min.js.pagespeed.ce.V5Dq1607on.js"></script>
+  
+  <!-- counter jquery -->
+  
+  <script src="https://www.baloto.com/modules/cms/views/assets/js/jquery.counter.js.pagespeed.ce.RWoBxHrEr6.js"></script><!--
+   counter jquery -->
+  
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-33502596-1', 'auto');
+    ga('send', 'pageview');
+
+    $("#loader-2").show();
+  </script> 
+</head>
+<body>
+<div class="loaderwrap loader" id="loader-2"><div class="spinloader"></div></div>  
+       
+<section class="home_wrapper">
+    <div class="header clearfix">
+      <div class="menu-nav">
+        <nav class="navbar navbar-default navbar-fixed-top menu-custom js__navigator_banner" id="sticky">
+          <div class="container clearfix">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+              <button class="navbar-toggle close-arrow" data-toggle="collapse" data-target="#menu-open">
+                         <!--<span class="sr-only">Toggle navigation</span> 
+                        <span class="glyphicon glyphicon-remov"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>-->
+                      </button>
+              <a class="navbar-brand" href="http://www.coljuegos.gov.co/" target="_blank">
+                <img src="https://www.baloto.com/modules/cms/views/assets/images/xlogo.png.pagespeed.ic.25OpLbmU1G.png" alt="logo"/>
+              </a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse btnCollapse clearfix " id="menu-open">
+              <ul class="nav navbar-nav navbar-left clearfix">
+                                <li> <a class="menuopen" href="https://www.baloto.com/#baloto_revancha_bg_image">¿qué es baloto revancha?</a></li>
+                <li> <a class="menuopen" href="https://www.baloto.com/#como_jugar_tab">jugar y ganar</a></li>
+                <li> <a class="menuopen" href="https://www.baloto.com/#resultados_tab">Resultados</a></li>
+                <li> <a class="menuopen" href="https://www.baloto.com/#benificios">Beneficios para Colombia </a></li>
+                <li> <a class="menuopen" href="https://www.baloto.com/#donde_jugar">¿Dónde Jugar? </a></li>
+                <li> <a class="menuopen" href="https://www.baloto.com/#suerte">Juega tu suerte</a></li>
+                <li> <a class="menuopen" href="https://www.baloto.com/#igt">IGT </a></li>
+                <li> <a class="menuopen" href="https://www.baloto.com/#boletin_tab">regístro al boletín</a></li>
+                
+              </ul>
+             <div class="col-md-3 col-xs-12 pull-right social hidden-lg hidden-md hidden-sm">
+                <button data-toggle="dropdown" class="dropdown-toggle right_btn hidden-xs ">
+                            </button>
+                <ul class="dropdown-menu">
+                  <li>
+                    <a data-original-title="Facebook" target="_blank" href="Https://www.facebook.com/BalotoRevancha/" class="facebook" data-placement="left">
+                      <i class="facebook-icon"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a data-original-title="Twitter" target="_blank" href="Https://twitter.com/@baloto_colombia" class="twitter" data-placement="left">
+                      <i class="twitter-icon"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a data-original-title="Google+" target="_blank" href="Https://www.youtube.com/channel/UCIOtuCbW5T1eMFR_oY6dTUw" class="youtube" data-placement="left">
+                      <i class="youtube-icon"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <!-- /.navbar-collapse -->
+          </div>
+          <!-- /.container -->
+        </nav>
+         <div class="col-md-3 col-xs-12 pull-right social hidden-xs">
+                <!--<button href="#" data-toggle="dropdown" class="dropdown-toggle right_btn hidden-xs ">
+                            </button>-->
+                <ul class="dropdown-menu sticky">
+                  <li>
+                    <a data-original-title="Facebook" target="_blank" href="Https://www.facebook.com/BalotoRevancha/" class="facebook" data-placement="left">
+                      <i class="facebook-icon"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a data-original-title="Twitter" target="_blank" href="Https://twitter.com/@baloto_colombia" class="twitter" data-placement="left">
+                      <i class="twitter-icon"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a data-original-title="Google+" target="_blank" href="Https://www.youtube.com/channel/UCIOtuCbW5T1eMFR_oY6dTUw" class="youtube" data-placement="left">
+                      <i class="youtube-icon"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+      </div>
+    </div>
+   <script type="text/javascript">
+     $('.menuopen').each(function(){
+      $(this).click(function(){
+        $('.close-arrow').click();
+      });
+     });
+   </script> <section class="ano">
+    <div class="banner-mes" style="background-image:url(https://www.baloto.com/storage/app/media//xmes-banner2017042811390720170526165953.jpg.pagespeed.ic.2L2pktSjNT.jpg)">
+        <div class="contanier-1000">
+            <div class="banner-conent ">
+                <h3 class="title-section text-center">resultados
+                    históricos
+                    <span class="yellow">por mes</span>
+                </h3>
+                <select id="history_mes" name="history_mes" class="selectpicker" title="Selecciona el mes" onchange="searchmonthlyresult(this.value);">
+                    <option value="01">Enero</option>
+                    <option value="02">febrero</option>
+                    <option value="03">marzo</option>
+                    <option value="04">abril</option>
+                    <option value="05">mayo</option>
+                    <option value="06">junio</option>
+                    <option value="07">julio</option>
+                    <option value="08">agosto</option>
+                    <option value="09">septiembre</option>
+                    <option value="10">octubre</option>
+                    <option value="11">noviembre</option>
+                    <option value="12">diciembre</option>                   
+                </select>
+            </div>
+        </div>
+        </div>
+        
+    <div class="container clearfix ano-conent contanier-1000" id="monthlyresult">
+        <h2 class="red-innertitle text-center">Diciembre de <span>2017</span></h2>
+        <a href="https://www.youtube.com/channel/UCIOtuCbW5T1eMFR_oY6dTUw/videos" target="_blank" class="red-btn ano-red">VER los sorteos en video <img src="https://www.baloto.com/modules/cms/views/assets/images/youtube-white.png.pagespeed.ce.psqZshuV_P.png" alt="youtubeicon"/></a>
+                    <div class="table-wrapper">
+                    <!-- Desktop Section -->
+                    <div class="table-header col-lg-12">Diciembre de - 2017</span></div>
+                    <div class="clearfix"></div>
+                    <div class="table-body hidden-xs ">
+                        <div class="row table-row">
+                            <div>
+                                <span> No hay resultados disponibles </span>
+                            </div>
+                        </div>
+                    </div>                     
+                    <!-- Desktop Section -->
+                    <!-- Mobile Section -->
+                    <div class="table-body mobile-table  hidden-lg hidden-sm hidden-md">
+                        <div class="row table-row ">
+                            <div class="col-xs-12">
+                                <div>
+                                    <span> No hay resultados disponibles</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Mobile Section -->    
+                </div>
+                  
+            </div> 
+</section>
+<script type="text/javascript">
+    $('html,body').animate({ scrollTop: $("#monthlyresult").offset().top - 70},'slow');
+
+function searchmonthlyresult(month){
+  var redirecturl = 'https://www.baloto.com/historicomes/2017/'+month;      
+  window.location.href = redirecturl;
+}
+
+$(window).load(function(){    
+    $('#history_mes').val('12');
+    $('select').selectpicker('refresh');
+});    
+</script>
+
+
+<footer class="footer-section clearfix">
+      <div class="footer-content container">
+         <div class="col-lg-6 col-sm-6 col-xs-12 pull-right border-left">
+          <div class="row">
+            <div class="col-lg-12 inner-title">
+              <h2>LÍNEAS DE ASISTENCIA</h2>
+            </div>
+            <div class="col-lg-12   padding-0">
+              <div class="col-lg-6 col-xs-12 col-sm-12">
+                <p class="margin-0">Fuera de Bogotá llama a la línea gratuita:</p>
+                <span>01 8000 956 886 </span>
+              </div>
+              <div class="col-lg-6 col-xs-12 col-sm-12">
+                <p class="margin-0">En bogotá llama al teléfono:</p>
+                <span>592 34 30 </span>
+              </div>
+              <div class="col-lg-12 col-xs-12 col-sm-12 footer-text">
+                                <p>
+                  Para reportar problemas con el funcionamiento de la página web o con información contenida en la misma, por favor escriba a
+                  : <a href="mailto:baloto@baloto.com"> baloto@baloto.com</a>
+                </p>
+                <p>
+                  En este correo no se podrán recibir PQRS (Peticiones, quejas, reclamos o sugerencias) con respecto a temas relacionados con
+                  la red VIA Baloto, pago de premios, Coljuegos, etc.
+                </p>
+                <p>              </div>
+            </div>
+          </div>
+        </div>
+                
+        <div class="col-lg-6 col-sm-6 col-xs-12 logo-title">
+          <div class="row">
+            <div class="col-lg-6 vertical">
+              <h2>encuéntralo en la red</h2>
+            </div>
+            <div class="col-lg-6 vertical"> <a href="http://www.via.com.co/" target="_blank">
+            <img src="https://www.baloto.com/storage/app/media//xfooter-logo20170407093820.png.pagespeed.ic.yXRKvcaLJP.png" alt="" class="img-responsive"/></a></div>
+          </div>
+          <div class="row">
+            <div class="col-lg-12">
+              <h2 class="margin-30"> AVISO LEGAL</h2>
+              <p class="margin-30">El uso de esta página web y de sus servicios es indicación de que usted acepta los Términos de Uso</p>
+              <div class="links row">
+                <div class="col-lg-6 col-xs-6 col-sm-6">
+                  <a href="https://www.baloto.com/cms/comunicados-oficiales">Comunicados Oficiales</a>
+                </div>
+                <div class="col-lg-6 col-xs-6 col-sm-6">
+                  <a href="https://www.baloto.com/cms/terminos-y-condiciones">Términos y Condiciones</a>
+                </div>
+              </div>
+              <div class="regecto-btn-section row">
+                   <div class="col-lg-6 col-xs-12 col-sm-6 vertical">
+                  <p><strong> COLJUEGOS</strong> EICE Con. 1379 / 2016 Operado por <strong> IGT JUEGOS SAS</strong></p>
+                </div>
+                <div class="col-lg-6 col-xs-12 col-sm-12 vertical">
+                  <a href="https://www.baloto.com/storage/app/media/BALOTO-Reglamento-2017-04-07_20170427154717.pdf" download="reglamento.pdf" class="yellow-btn">Ver Reglamento</a>
+                </div>            
+               </div>
+            </div>
+          </div>
+        </div>       
+      </div>
+    </footer>
+    <div class="copyright">
+      <p> Baloto - Todos los derechos reservados ® - 2017</p>
+    </div>
+</section>  
+  <script src="https://www.baloto.com/modules/cms/views/assets/js/bootstrap.js.pagespeed.ce.8qCpleQgc6.js"></script>
+  <script src="https://www.baloto.com/modules/cms/views/assets/js/bootstrap-select.min.js.pagespeed.ce.k9bdPtCMoO.js"></script>
+  <script src="https://www.baloto.com/modules/cms/views/assets/js/owl.carousel.min.js.pagespeed.ce.t7nJfNaOwz.js"></script>
+  <script src="https://www.baloto.com/modules/cms/views/assets/js/parsley.js.pagespeed.ce.IAiSSPEhMC.js"></script>
+  <script src="https://www.baloto.com/modules/cms/views/assets/js/jquery.mCustomScrollbar.concat.min.js.pagespeed.ce.QqNo6VtKOJ.js"></script>
+  <script src="https://www.baloto.com/modules/cms/views/assets/js/jquery.incremental-counter.js.pagespeed.ce.b4om9OdKga.js"></script> 
+	<script type="text/javascript">
+     setInterval(function(){ 
+        $(".incremental-counter").html('');   
+        $(".incremental-counter").incrementalCounter();
+      }, 30000);
+
+			$(document).ready(function(){
+       
+        $(".incremental-counter").incrementalCounter();
+
+        $('#igt').css('background','none');
+				$(".selectpicker").selectpicker();
+				$(".dropdown-menu .dropdown-menu").mCustomScrollbar({
+          setHeight:240,
+          theme:"inset-dark",
+          mouseWheel:{ preventDefault:true }
+        });
+			});
+	
+        function change_comojugar_bg_image(imagename, element) {
+          var bg_image = "https://www.baloto.com/storage/app/media"+imagename;
+          $('#como_jugar_tab').attr('style', 'background-image:url(' + bg_image + ')');
+          if(element.text!=''){
+            $('#tab_title_selected').html(element.text);
+          }
+        }
+
+        function change_balotorevancha_bg_image(imagename, element){
+          var bg_image = "https://www.baloto.com/storage/app/media"+imagename;
+          $('#baloto_revancha_bg_image').attr('style', 'background-image:url(' + bg_image + ')');
+          if(element.text!=''){
+            $('#baloto_tab_title_selected').html(element.text);
+          }
+        }
+
+        function change_itg_bg_image(imagename, element){
+          $('#igt').attr('style', 'background-image:url(' + imagename + ')');
+          if(element.text!=''){
+            $('#igt_tab_title_selected').html(element.text);
+          }
+        }
+
+        $("#scroll").click(function() {
+            $('html,body').animate({
+                scrollTop: $(".que_es").offset().top - 70},
+                'slow');
+                
+        });
+         $("#log-down-scroll").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#NEW").offset().top - 70},
+                'slow');
+                
+        });
+         $("#revancha").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#baloto_revancha_bg_image").offset().top - 70},
+                'slow');
+                
+
+        });
+         $("#ganar").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#como_jugar_tab").offset().top - 70},
+                'slow');
+        });
+
+        $("#resultados_search").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#resultados_tab").offset().top - 70},
+                'slow');
+        });
+
+        $("#benefifios_link").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#benificios").offset().top - 70},
+                'slow');
+        });
+
+        $("#donde_jugar_link").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#donde_jugar").offset().top - 70},
+                'slow');
+        });
+
+        $("#suerte_link").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#suerte").offset().top - 70},
+                'slow');
+        });
+
+        $("#igt_link").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#igt").offset().top - 70},
+                'slow');
+        });
+
+        $("#boletin").click(function() {
+            $('html,body').animate({
+                scrollTop: $("#boletin_tab").offset().top - 70},
+                'slow');
+        });
+
+       $('.owl-carousel').owlCarousel({
+          loop:false,
+          margin:10,
+          nav:false,
+          //autoPlay:true,          
+          autoplayTimeout:300,
+          touchDrag:true,
+          autoWidth:true,
+          responsive:{
+              0:{
+                  items:1
+              },
+              600:{
+                  items:2
+              },
+              1000:{
+                  items:4
+              }
+            }
+        }); 
+
+swipeinmobile();
+$(window).resize(swipeinmobile);
+function swipeinmobile(){
+  var winwidth = $(window).width();
+  if(winwidth < 767){
+    $(".slider_sectoin .carousel").on("touchstart", function(event){
+      var xClick = event.originalEvent.touches[0].pageX;
+      $(this).one("touchmove", function(event){
+        var xMove = event.originalEvent.touches[0].pageX;
+        if( Math.floor(xClick - xMove) > 5 ){
+          $(".slider_sectoin .carousel").carousel('next');
+        }else if( Math.floor(xClick - xMove) < -5 ){
+          $(".slider_sectoin .carousel").carousel('prev');
+        }
+      });
+      $(".slider_sectoin .carousel").on("touchend", function(){
+        $(this).off("touchmove");
+      });
+    });
+    $("#full-width-inner-tab-1.carousel").on("touchstart", function(event){
+      var xClick = event.originalEvent.touches[0].pageX;
+      $(this).one("touchmove", function(event){
+        var xMove = event.originalEvent.touches[0].pageX;
+        if( Math.floor(xClick - xMove) > 5 ){
+          $("#full-width-inner-tab-1.carousel").carousel('next');
+        }else if( Math.floor(xClick - xMove) < -5 ){
+          $("#full-width-inner-tab-1.carousel").carousel('prev');
+        }
+      });
+      $("#full-width-inner-tab-1.carousel").on("touchend", function(){
+        $(this).off("touchmove");
+      });
+    });
+     $("#full-width-inner-tab-4.carousel").on("touchstart", function(event){
+      var xClick = event.originalEvent.touches[0].pageX;
+      $(this).one("touchmove", function(event){
+        var xMove = event.originalEvent.touches[0].pageX;
+        if( Math.floor(xClick - xMove) > 5 ){
+          $("#full-width-inner-tab-4.carousel").carousel('next');
+        }else if( Math.floor(xClick - xMove) < -5 ){
+          $("#full-width-inner-tab-4.carousel").carousel('prev');
+        }
+      });
+      $("#full-width-inner-tab-4.carousel").on("touchend", function(){
+        $(this).off("touchmove");
+      });
+    });
+     $("#igttab0.carousel").on("touchstart", function(event){
+      var xClick = event.originalEvent.touches[0].pageX;
+      $(this).one("touchmove", function(event){
+        var xMove = event.originalEvent.touches[0].pageX;
+        if( Math.floor(xClick - xMove) > 5 ){
+          $("#igttab0.carousel").carousel('next');
+        }else if( Math.floor(xClick - xMove) < -5 ){
+          $("#igttab0.carousel").carousel('prev');
+        }
+      });
+      $("#igttab0.carousel").on("touchend", function(){
+        $(this).off("touchmove");
+      });
+    });
+  }
+}
+
+
+    function searchyearlyresult(year){
+      window.location.href = 'https://www.baloto.com/historicoano/'+year;
+    }
+
+    $(window).load(function(){
+        $('.monthResult:eq( 0 )').trigger('click');
+        setTimeout(function(){ $('#loader-2').hide(); }, 1000);
+    });
+
+    function getcitydata(department_id,section){               
+        $('#loader-2').show();        
+        $.ajax({
+            url: '/getcitydata',                
+            data: "department_id="+department_id,
+            type: 'POST',
+            dataType: 'json',
+            async: false,
+            success: function (data) {
+                if(section == 'newsletter'){
+                  $('#city_id').html('');                  
+                  if(department_id !=''){
+                    $('#city_id').attr('disabled',false);
+                  }else{
+                    $('#city_id').attr('disabled',true);
+                  }                              
+                  var result = JSON.parse(JSON.stringify(data));          
+                  $.each(result,function(i,e){                
+                      $('#city_id').append('<option value="'+result[i].id+'">'+result[i].city_name+'</option>');
+                  });
+                  $(".dropdown-menu > ul.dropdown-menu").mCustomScrollbar("destroy");
+                  $('#city_id').selectpicker('refresh');
+                  $(".dropdown-menu > ul.dropdown-menu").mCustomScrollbar({
+                    setHeight:240,
+                    theme:"inset-dark",
+                    mouseWheel:{ preventDefault:true },
+                  });                 
+                }else{
+                  $('#search_city_id').html('');                  
+                  if(department_id !=''){
+                    $('#search_city_id').attr('disabled',false);
+                  }else{
+                    $('#search_city_id').attr('disabled',true);
+                  }                             
+                  var result = JSON.parse(JSON.stringify(data));
+                  $('#search_city_id').append('<option value="">Todo el ciudad</option>');
+                  $.each(result,function(i,e){                
+                      $('#search_city_id').append('<option value="'+result[i].id+'">'+result[i].city_name+'</option>');
+                  });
+                  $(".dropdown-menu > ul.dropdown-menu").mCustomScrollbar("destroy");
+                  $('#search_city_id').selectpicker('refresh');
+                  $(".dropdown-menu > ul.dropdown-menu").mCustomScrollbar({
+                    setHeight:240,
+                    theme:"inset-dark",
+                    mouseWheel:{ preventDefault:true },
+                  });
+                }          
+            },
+        });
+        setTimeout(function(){ $('#loader-2').hide(); }, 1000);
+    }
+
+    $('#city_id').attr('disabled',true);
+    $('#search_city_id').attr('disabled',true);
+
+    $('#newsletter_form').submit(function(e) {           
+        if ( $(this).parsley().isValid() ) {
+          $('#loader-2').show();  
+          var form_data = $("#newsletter_form").serialize();         
+          $.ajax({
+              url: '/createnewsletter',                
+              data: "form_data="+form_data,
+              type: 'POST',
+              datatype: 'html',
+              async:false,
+              success: function (resp) {                    
+                $('#newsletter_msg').show();
+                $('#newsletter_form').trigger("reset");                
+                $('select').find('option').prop("selected", false);
+                $(".dropdown-menu > ul.dropdown-menu").mCustomScrollbar("destroy");
+                $('select').selectpicker('refresh');
+                $(".dropdown-menu > ul.dropdown-menu").mCustomScrollbar({
+                  setHeight:240,
+                  theme:"inset-dark",
+                  mouseWheel:{ preventDefault:true },
+                });                
+                
+                setTimeout(function(){ 
+                $('.form-control').removeClass('parsley-error');
+                //$('.form-control').addClass('parsley-success');
+                $('.parsley-required').html('');
+                $('#loader-2').hide();
+                window.location.href = 'https://www.baloto.com/#email';
+              }, 1000);
+                return false;              
+              }
+          });     
+          return false;
+        }else{
+          $('.msg_class').show();
+          $('#newsletter_msg').hide();
+        }
+    });    
+    
+
+function set_counter(){
+
+}
+</script>
+</html> 

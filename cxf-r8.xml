@@ -1,0 +1,29 @@
+<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:sec="http://cxf.apache.org/configuration/security" xmlns:http-conf="http://cxf.apache.org/transports/http/configuration"
+xsi:schemaLocation="http://cxf.apache.org/transports/http/configuration http://cxf.apache.org/schemas/configuration/http-conf.xsd
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<http-conf:conduit name="{http://tempuri.org/}BasicHttpBinding_I_ProductPriceServiceExt.http-conduit">
+ <http-conf:client AllowChunking="false"/>
+ <http-conf:tlsClientParameters useHttpsURLConnectionDefaultHostnameVerifier="true"/>
+ </http-conf:conduit>
+ <http-conf:conduit name="{urn:accessamerica.services.insurance.travel}AccessAmericaPurchasePort.http-conduit">
+ <http-conf:client AllowChunking="false"/>
+ <http-conf:tlsClientParameters useHttpsURLConnectionDefaultHostnameVerifier="true"/>
+ </http-conf:conduit>
+ <http-conf:conduit name="{urn:schemas-cybersource-com:transaction-data:TransactionProcessor}portXML.http-conduit">
+ <http-conf:client AllowChunking="false"/>
+ <http-conf:tlsClientParameters useHttpsURLConnectionDefaultHostnameVerifier="true"/>
+ </http-conf:conduit>
+ <http-conf:conduit name="{http://www.barclaycardus.com/prescreen/v1}PrescreenWSPortType_v1Port.http-conduit">
+ <http-conf:client AllowChunking="false"/>
+ <http-conf:tlsClientParameters useHttpsURLConnectionDefaultHostnameVerifier="true">
+ <sec:keyManagers keyPassword="lift-quiet-help-sting-clear">
+ <sec:keyStore type="PKCS12" password="lift-quiet-help-sting-clear" url="file:../TDP-config/posqaicjetblue.barclaycardus.com.pfx"/>
+ </sec:keyManagers>
+ </http-conf:tlsClientParameters>
+ </http-conf:conduit>
+ <http-conf:conduit name="{http://interfaces.esb.clm.comarch.com/}RedemptionServicePort.http-conduit">
+ <http-conf:client AllowChunking="false"/>
+ <http-conf:tlsClientParameters disableCNCheck="true"/>
+ </http-conf:conduit>
+</beans>
